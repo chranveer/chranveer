@@ -28,9 +28,9 @@ I run cloud operations and site reliability engineering for a SaaS search platfo
 
 CKA · Google Cloud Professional DevOps Engineer · Google Cloud Professional Network Engineer · RHCE · IBM Certified Specialist (UNIX AIX)
 
-### Available for part-time / contract
+### For Consulting:
 
-I take **20–30 hrs/week** of remote SRE, platform engineering, and reliability consulting work — long-term retainers preferred. Reach me on LinkedIn: [linkedin.com/in/ranveersingh](https://www.linkedin.com/in/ranveersingh) or `ch.ranveer@yahoo.com`.
+Reach me on LinkedIn: [linkedin.com/in/ranveersingh](https://www.linkedin.com/in/ranveersingh) or `ch.ranveer@yahoo.com`.
 
 ---
 

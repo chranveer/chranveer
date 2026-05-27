@@ -30,7 +30,7 @@ CKA · Google Cloud Professional DevOps Engineer · Google Cloud Professional Ne
 
 ### For Consulting:
 
-Reach me on LinkedIn: [linkedin.com/in/ranveersingh](https://www.linkedin.com/in/ranveersingh) or `ch.ranveer@yahoo.com`.
+Reach me on LinkedIn: [linkedin.com/in/ranveersingh](https://www.linkedin.com/in/ranveersingh) .
 
 ---
 

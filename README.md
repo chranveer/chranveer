@@ -22,7 +22,7 @@ I run cloud operations and site reliability engineering for a SaaS search platfo
 
 ### Career arc
 
-19+ years in production infrastructure — from senior Unix/AIX engineering at **Apple Inc.** (Cupertino, 2011–2015) → independent DevOps consulting → SRE → managing cloud operations today. Comfortable across AWS, GCP, and Azure; deepest with GCP.
+20+ years in production infrastructure — from senior Unix/AIX engineering at **Apple Inc.** (Cupertino, 2011–2015) → independent DevOps consulting → SRE → managing cloud operations today. Comfortable across AWS, GCP, and Azure; deepest with GCP.
 
 ### Certifications
 

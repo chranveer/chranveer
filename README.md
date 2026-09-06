@@ -1,4 +1,4 @@
-# Hi, I'm Ranveer 👋
+# Hi, I'm Ranveer 
 
 **Senior SRE & DevOps Leader (Hands-on) · GCP · Kubernetes (GKE) · Terraform**
 
